@@ -17,11 +17,11 @@
   "license": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/angular-storage-expiry.git"
+    "url": "https://github.com/zxaman/angular-storage-expiry"
   },
-  "homepage": "https://github.com/yourusername/angular-storage-expiry#readme",
+  "homepage": "https://github.com/zxaman/angular-storage-expiry#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/angular-storage-expiry/issues"
+    "url": "https://github.com/zxaman/angular-storage-expiry/issues"
   },
   "peerDependencies": {
     "@angular/common": "^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0 || ^20.0.0 || ^21.0.0",
